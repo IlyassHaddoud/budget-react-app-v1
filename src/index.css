@@ -4,3 +4,10 @@
   box-sizing: border-box;
   font-family: "Poppins", sans-serif;
 }
+
+.budgets {
+  padding: 40px;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
